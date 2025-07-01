@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# IPython
+.ipynb_checkpoints
+
+# Gráficos gerados
+*.png
+*.jpg
+*.jpeg
+*.gif
